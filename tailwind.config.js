@@ -2,13 +2,13 @@
   const defaultTheme = require('tailwindcss/defaultTheme');
 
 module.exports = {
-  content: ["./src/**/*.{js}",
+  content: ["./src/**/*.js",
             "./index.html"
   ],
   theme: {
     extend: {
       colors: {
-        elizaPurple: '#09090A',
+        elizaPurple: '#786599',
         elizaGreen: '#DAE08F',
         elizaDarkGreen: '#8b8f5b',
         elizaBlue: '#D4E9F9',
